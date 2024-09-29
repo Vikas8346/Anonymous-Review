@@ -5,7 +5,7 @@
 
 🔗 **Live Project:** [Anonymous Review on GitHub](https://github.com/Vikas8346/Anonymous-Review)
 
-📽️ **Demo Video:** [Watch the Demo](./demo.mp4)
+📽️ **Demo Video:** [Watch the Demo](./sample-video.mp4)
 
 ## 📖 Table of Contents
 - [🌟 Features](#-features)
